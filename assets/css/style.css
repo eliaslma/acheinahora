@@ -1,0 +1,63 @@
+/* CUSTOM STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: black;
+}
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* BOOTSTRAP CORE CUSTOM
+------------------------- */
+
+.nav-link {
+  margin-right: 20px;
+  color: black;
+}
+
+.nav-link:hover{
+  color: gray;
+}
+
+.display-6 {
+  text-align: center;
+}
+
+
+.caption-text{ 
+  color: black;
+}
+
+.rounded-img{
+  border-radius: 50%;
+}
+
+.btn-down {
+  border-radius: 5px;
+  background-color: #ffbf00;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.download-button{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
